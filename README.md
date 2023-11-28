@@ -8,7 +8,7 @@ This repository contains the necessary data and a Jupyter Notebook for the proje
    Clone this repository or download the ZIP file and extract it to your desired location.
 
    ```bash
-   git clone https://github.com/anbipa/BookRecommenderCT
+   git clone https://github.com/anbipa/BookRecommenderCT.git
    ```
 
 2. **Navigate to the Project Folder:**
