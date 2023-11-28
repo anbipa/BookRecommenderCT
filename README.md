@@ -39,7 +39,3 @@ This repository contains the necessary data and a Jupyter Notebook for the proje
 - If encountering issues, refer to the project documentation or contact the project auhthors for support.
 
 Feel free to reach out if you have any questions or need assistance.
-
----
-
-Adjust the placeholders (like `your-username` and `your-repository`) with the actual values based on your GitHub repository.
